@@ -1,0 +1,30 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "account10".(Íª©Þ
+R
+java:S1854"<Remove this useless assignment to local variable "account9".(éÝ¯Þ
+R
+java:S1854"<Remove this useless assignment to local variable "account8".(¢¹Â£
+R
+java:S1854"<Remove this useless assignment to local variable "account7".(¶½Áº
+R
+java:S1854"<Remove this useless assignment to local variable "account6".(ÒÑÌª
+R
+java:S1854"<Remove this useless assignment to local variable "account5".(©µ¬²
+R
+java:S1854"<Remove this useless assignment to local variable "account4".(ùÑŽ¿
+C
+java:S1481"-Remove this unused "account4" local variable.(ùÑŽ¿
+C
+java:S1481"-Remove this unused "account5" local variable.(©µ¬²
+C
+java:S1481"-Remove this unused "account6" local variable.(ÒÑÌª
+C
+java:S1481"-Remove this unused "account7" local variable.(¶½Áº
+C
+java:S1481"-Remove this unused "account8" local variable.(¢¹Â£
+C
+java:S1481"-Remove this unused "account9" local variable.(éÝ¯Þ
+D
+java:S1481".Remove this unused "account10" local variable.(Íª©Þ
+V	java:S125D"<This block of commented-out lines of code should be removed.(µÝ¬“ýÿÿÿÿ

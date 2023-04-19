@@ -1,0 +1,42 @@
+
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤”ƒßıÿÿÿÿ
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁÏÍÃüÿÿÿÿ
+o
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ßßà
+t
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(–Ôı‚üÿÿÿÿ
+o
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô›˜ê
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ßÑÖùÿÿÿÿ
+“
+java:S1319W"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ŸİºÍüÿÿÿÿ8Ûˆ“õô0
+ƒ
+java:S1319["fThe type of "posts" should be an interface such as "List" rather than the implementation "LinkedList".(¦ÿÒ¢8Ûˆ“õô0
+“
+java:S1319_"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(öƒ¦Óşÿÿÿÿ8Ûˆ“õô0
+‹
+java:S1319c"nThe type of "messagesInbox" should be an interface such as "List" rather than the implementation "LinkedList".(Ğ©‰î8Ûˆ“õô0
+
+java:S1319g"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(øà¸Ú8Üˆ“õô0
+‘
+java:S1319k"oThe type of "messagesOutbox" should be an interface such as "List" rather than the implementation "LinkedList".(Œ¬¼øúÿÿÿÿ8Üˆ“õô0
+“
+java:S1319o"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(œÿé®ûÿÿÿÿ8Üˆ“õô0
+Œ
+java:S1319s"jThe type of "following" should be an interface such as "List" rather than the implementation "LinkedList".(»º«õÿÿÿÿÿ8Üˆ“õô0
+“
+java:S1319w"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¨±Àªüÿÿÿÿ8Üˆ“õô0
+Œ
+java:S1319{"jThe type of "followers" should be an interface such as "List" rather than the implementation "LinkedList".(ä’úışÿÿÿÿ8Üˆ“õô0
+“
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ğ÷„ˆıÿÿÿÿ8Üˆ“õô0
+
+java:S1319ƒ"pThe type of "blockedAccounts" should be an interface such as "List" rather than the implementation "LinkedList".(Šğ¬è8Üˆ“õô0
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ôßªş
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Í†ˆÄ8¦öô0
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Û˜¿£ùÿÿÿÿ8¦öô0

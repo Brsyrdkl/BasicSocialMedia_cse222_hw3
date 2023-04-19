@@ -1,0 +1,15 @@
+
+ˆ
+java:S13192"fThe type of "likes" should be an interface such as "List" rather than the implementation "LinkedList".(Öíäáûÿÿÿÿ8«Æ”õô0
+‹
+java:S13196"iThe type of "comments" should be an interface such as "List" rather than the implementation "LinkedList".(ÂÌÚÁşÿÿÿÿ8«Æ”õô0
+
+java:S1319?"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(‹³™Ş8«Æ”õô0
+
+java:S1319B"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¹Ïâ	8«Æ”õô0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ïä¿«8ûŞŒöô0
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(­Æôıÿÿÿÿ8ûŞŒöô0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ûŞŒöô0

@@ -1,0 +1,104 @@
+
+`	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(Æ–³ıÿÿÿÿ
+`	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(‹ÏÅµúÿÿÿÿ
+[	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(‹‡„4
+\	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(ÜíÖŞ
+\	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(ÜíÖŞ
+\	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(ÜíÖŞ
+\	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(ÜíÖŞ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä°¼Î
+k
+java:S1192¯"TDefine a constant instead of duplicating this literal "There is no post id" 4 times.(ÜíÖŞ
+h
+java:S1192ú"LDefine a constant instead of duplicating this literal "You viewed " 3 times.(ÉãÂùûÿÿÿÿ
+J
+java:S1121¢".Extract the assignment out of this expression.( È°„úÿÿÿÿ
+8
+java:S1643Å"Use a StringBuilder instead.(¸Š›ùÿÿÿÿ
+3
+java:S1643Æ"Use a StringBuilder instead.(í™Æ±
+3
+java:S1643Ó"Use a StringBuilder instead.(Ë÷¹ï
+3
+java:S1643Ô"Use a StringBuilder instead.(í™Æ±
+8
+java:S1643Î"Use a StringBuilder instead.(Ö“Ì•üÿÿÿÿ
+3
+java:S1643Ï"Use a StringBuilder instead.(í™Æ±
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(““ıãÿÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(œ‰ğ‰
+N	java:S106="9Replace this use of System.out or System.err by a logger.(üÅæ¤
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¨˜¢ÿÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(àèÑË
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ŠûÙşÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(„Ş¯Û
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ûÑíşÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(´·±†úÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(¬ÚöÏ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(¡ƒ†Ìıÿÿÿÿ
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(ş„´È
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(£ÛÖÔ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(Ü¸÷Ûøÿÿÿÿ
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(…‡Æãüÿÿÿÿ
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(Õô¸Ò
+U
+java:S1155ï">Use isEmpty() to check whether the collection is empty or not.(ŠùÚ
+U
+java:S1155ï">Use isEmpty() to check whether the collection is empty or not.(ŠùÚ
+O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(Òû–‚
+Z
+java:S1155ò">Use isEmpty() to check whether the collection is empty or not.(ö·ßşÿÿÿÿ
+Z
+java:S1155ò">Use isEmpty() to check whether the collection is empty or not.(ö·ßşÿÿÿÿ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(±¤ÿúÿÿÿÿ
+U
+java:S1155õ">Use isEmpty() to check whether the collection is empty or not.(¸¯¢Å
+U
+java:S1155õ">Use isEmpty() to check whether the collection is empty or not.(¸¯¢Å
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(Òû–‚
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(±¤ÿúÿÿÿÿ
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(¼¹ïŸüÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ÔµÜªøÿÿÿÿ
+N	java:S106’"9Replace this use of System.out or System.err by a logger.(¹Ìò'
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(øæˆ¾ÿÿÿÿÿ
+T
+java:S1854 "8Remove this useless assignment to local variable "size".(Ş “›üÿÿÿÿ
+E
+java:S1481 ")Remove this unused "size" local variable.(Ş “›üÿÿÿÿ
+D
+java:S1481¡"(Remove this unused "str" local variable.(ûÍÇÉøÿÿÿÿ
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(óõºĞ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(‚„¼…
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(‡¸ˆã
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(‹¸˜ÿøÿÿÿÿ
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(Á±Ş³
+O	java:S106å"9Replace this use of System.out or System.err by a logger.(Ë·¾¶
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(«“Áşÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(Å£Éùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡êŠ<
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(â™Ãçúÿÿÿÿ
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(˜¦ÿ„
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(»Œçãúÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(î€”‡
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(Ñëó
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(¼µìæüÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(†ÔÍÂúÿÿÿÿ
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(¹®ĞÁ
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ä½Šœ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(øæˆ¾ÿÿÿÿÿ
+U
+java:S1155Ş">Use isEmpty() to check whether the collection is empty or not.(­ı¨ğ
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(áö˜ 
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(şİ¾©øÿÿÿÿ
+Z
+java:S1155ã">Use isEmpty() to check whether the collection is empty or not.(ÓõÃÍıÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(ŒÛÓ“ùÿÿÿÿ
+T	java:S106æ"9Replace this use of System.out or System.err by a logger.(Êß¸šÿÿÿÿÿ
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(ŠñÚğøÿÿÿÿ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(²Üıÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Û…§Ü8à¹›‘õ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8é¹›‘õ0

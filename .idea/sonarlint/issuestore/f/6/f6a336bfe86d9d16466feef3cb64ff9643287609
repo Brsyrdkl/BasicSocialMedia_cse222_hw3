@@ -1,0 +1,17 @@
+
+v
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ό©ƒΟ8Ϋδξ’υ0
+v
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Η8§•”υ0
+c
+java:S2259-"FA "NullPointerException" could be thrown; "nextNode" is nullable here.(ΠΫδΖ8εξ’υ0
+b
+java:S2259n"EA "NullPointerException" could be thrown; "current" is nullable here.(Ϋ­Γ8…µΘ”υ0
+M
+java:S2160"+Override the "equals" method in this class.(ƒζ»ψÿÿÿÿ8‹εξ’υ0
+o
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‡πΞ8εξ’υ0
+W
+java:S1161]":Add the "@Override" annotation above this method signature(‡πΞ8εξ’υ0
+W
+java:S1161”":Add the "@Override" annotation above this method signature(Ήζα58‘εξ’υ0
